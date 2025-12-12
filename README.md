@@ -1,4 +1,4 @@
-![December Roadmap Banner](ChatGPT Image Dec 12, 2025, 01_18_52 PM.png)
+![December Roadmap Banner](DecemberRoadmap.png)
 
 # 🎯 December Backend & AI Roadmap
 
