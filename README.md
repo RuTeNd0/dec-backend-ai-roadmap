@@ -1,3 +1,5 @@
+![December Roadmap Banner](A_2D_digital_graphic_design_features_a_December_Ro.png)
+
 # 🎯 December Backend & AI Roadmap
 
 This repository documents my December learning plan to refresh backend development (C# & Java), software engineering fundamentals, and core AI concepts.
